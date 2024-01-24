@@ -1,0 +1,5 @@
+https://opengameart.org/content/modular-brick-building by OrbitStudios, Fernando Ferreira
+https://opengameart.org/content/furniture-kit by kenny.nl
+https://opengameart.org/content/gold-key by Jeremy Woods
+https://github.com/vrm-c/UniVRM by VRM Consortium
+Unity 2022.3.0f1

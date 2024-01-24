@@ -1,0 +1,18 @@
+level 
+- restart/reload = restarts the current level
+- exit/leave/unload = same as "menu"
+grapple
+- enable
+- disable
+- testcube
+god/godmode/invincible = player becomes invincible
+ufo/noclip = player can move through all objects
+menu = unloads current level and returns to the menu area
+player
+- position = manually set the players vector3 world position
+- position reset = resets the player to the start of the current section
+tutorial = starts the tutorial if it is not already running
+fps = sets the target fps
+fov = sets the camera field of view, (1-179)
+torch = toggles the players torch
+exit/quit/close = closes the game
